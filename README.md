@@ -1,7 +1,7 @@
 # Спрощення щорічної інсталяції необхідного ПО
 
-1. Завантажуємо [Winget](https://apps.microsoft.com/detail/9nblggh4nns1?hl=uk-ua&gl=UA)
-
+1. Інсталюємо [Winget](https://apps.microsoft.com/detail/9nblggh4nns1?hl=uk-ua&gl=UA)
+2. Завантажуємо [цей репозиторій](https://github.com/robocode-pb/fastInstall/archive/refs/heads/main.zip)
 2. Запускаємо [START_ME.bat](START_ME.bat)
 
 

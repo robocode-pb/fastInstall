@@ -51,10 +51,14 @@ start chrome "https://editor.construct.net"
 
 winget install Python.Python.3.10
 
+echo All install. Need ESP32 Arduino Core?
 pause
-exit
 
 :: установка  esp32
 git clone https://github.com/espressif/arduino-esp32.git C:\Users\%USERNAME%\Documents\Arduino\hardware/espressif/esp32
 cd C:\Users\%USERNAME%\Documents\Arduino\hardware/espressif/esp32/tools && python get.py
 
+echo Done!
+
+pause
+exit
