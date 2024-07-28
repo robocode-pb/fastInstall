@@ -1,8 +1,8 @@
 # Спрощення щорічної інсталяції необхідного ПО
 
-1. Завантажуємо (Winget)[https://apps.microsoft.com/detail/9nblggh4nns1?hl=uk-ua&gl=UA]
+1. Завантажуємо [Winget](https://apps.microsoft.com/detail/9nblggh4nns1?hl=uk-ua&gl=UA)
 
-2. Запускаємо (START_ME.bat)[START_ME.bat]
+2. Запускаємо [START_ME.bat](START_ME.bat)
 
 
 ## Вручну треба :

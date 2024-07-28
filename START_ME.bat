@@ -6,6 +6,7 @@ color 4
 winget --version >nul 2>&1
 if %errorLevel% neq 0 (
     echo !!!! Winget is not installed. Please install it first. !!!!
+    echo https://apps.microsoft.com/detail/9nblggh4nns1?hl=uk-ua&gl=UA
     pause
     exit /b
 )
