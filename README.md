@@ -22,6 +22,7 @@
 - Архіватор
 - VisualStudioCode
 - Sctath 3
+- Sctath 4 Arduino
 - Arduino IDE 
 - CH340 драйвер
 - Ardublock, бібліотеки, ядро ESP32
