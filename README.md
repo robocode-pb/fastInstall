@@ -14,7 +14,24 @@
     - Construct 3
 
 
+---
 
+Програми:
+- Chrome
+- Git
+- Архіватор
+- VisualStudioCode
+- Sctath 3
+- Arduino IDE 
+- CH340 драйвер
+- Ardublock, бібліотеки, ядро ESP32
+- UnityHub
+- Python.3.10
+
+---
+
+Знайшли помолку, маєте виправлення? Пишіть у 
+[issues](https://github.com/robocode-pb/fastInstall/issues)
 
 ---
 
