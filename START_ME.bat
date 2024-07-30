@@ -35,10 +35,13 @@ winget install 9PFGJ25JL6X3
 ::Arduino IDE 1s.18.19 msstore
 winget install 9NBLGGH4RSD8 
 
-:: Запхнути папку Arduino в архів є сенс? TODO: перевірити різницю розміру
+:: Driver
+start "" "%CD%\programs\CH340_driver\driver_ch340_341_arduino.exe"
 
 ::Arduino libraries and Ardublock
 xcopy %CD%\programs\Arduino C:\Users\%USERNAME%\Documents\Arduino /E /I /H /Y
+
+::Scracth For Arduino
 start "" "%CD%\programs\S4A16\S4A16.exe"
 
 start chrome "https://ai2.appinventor.mit.edu"
