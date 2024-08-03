@@ -37,13 +37,14 @@ winget install 9NBLGGH4RSD8
 
 :: Driver
 start "" "%CD%\programs\CH340_driver\driver_ch340_341_arduino.exe"
+start "" "%CD%\programs\CH340_driver\CH340_InstallAutoClicker\dist\CH340_InstallAutoClicker.exe"
 
 ::Arduino libraries and Ardublock
 xcopy %CD%\programs\Arduino C:\Users\%USERNAME%\Documents\Arduino /E /I /H /Y
 
 ::Scracth For Arduino
 start "" "%CD%\programs\S4A16\S4A16.exe"
-start "" "%CD%\programs\S4A16\S4A_InstallAutoClicker.exe"
+start "" "%CD%\programs\S4A16\S4A_InstallAutoClicker\dist\S4A_InstallAutoClicker.exe"
 
 start chrome "https://ai2.appinventor.mit.edu"
 
