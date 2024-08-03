@@ -1,1 +1,4 @@
 *.code-workspace
+programs/S4A16/S4A_InstallAutoClicker/build
+programs/S4A16/S4A_InstallAutoClicker/dist
+programs/S4A16/S4A_InstallAutoClicker/S4A_InstallAutoClicker.spec

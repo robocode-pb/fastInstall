@@ -43,6 +43,7 @@ xcopy %CD%\programs\Arduino C:\Users\%USERNAME%\Documents\Arduino /E /I /H /Y
 
 ::Scracth For Arduino
 start "" "%CD%\programs\S4A16\S4A16.exe"
+start "" "%CD%\programs\S4A16\S4A_InstallAutoClicker.exe"
 
 start chrome "https://ai2.appinventor.mit.edu"
 
